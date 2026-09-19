@@ -1,4 +1,4 @@
-*# 💫 About Me:
+# 💫 About Me:
 Hey, I'm ilyass 👋<br><br>I'm a Software Engineering student who enjoys turning ideas into real, working projects.<br><br>I'm currently building my foundations across software development, web development, mobile development, databases, and embedded systems. I like learning by actually building things — breaking them, debugging them, figuring out why they broke, and then making them work better.
 
 My long-term goal is to become a strong software engineer capable of building complete systems, from the hardware and backend to the database and user interface.
